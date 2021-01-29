@@ -1,6 +1,6 @@
 {
   "name": "xel-fonts",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Fonts used by Xel widget toolkit",
   "repository": "git+https://github.com/jarek-foksa/xel-fonts.git",
   "keywords": ["xel", "fonts"],
